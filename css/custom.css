@@ -1,6 +1,11 @@
 
-
 input.tiny, select.tiny
 {
     width: 10%;
+}
+
+li:hover, .slides .rate ul li.selected 
+{
+    background: none repeat scroll 0 0 #EEEEEE;
+    box-shadow: 0 0 0 1px #CCCCCC, 0 0 40px 0 #FFFFFF inset;
 }
