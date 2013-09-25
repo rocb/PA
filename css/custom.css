@@ -1,10 +1,6 @@
-/* - - - - - - - - - - - - - - - - - - - - -
 
- Title : 
- Author : 
- URL : http://
 
- Last Updated : 
-
-- - - - - - - - - - - - - - - - - - - - - */
-
+input.tiny, select.tiny
+{
+    width: 10%;
+}
